@@ -6,6 +6,11 @@ Assume a dataframe has a month name column and one wants to sort the dataframe b
 # How to install
     pip install sort-dataframeby-monthorweek
     
+There is another dependency package needs to be installed.
+``` python
+    pip install sorted-months-weekdays
+```
+    
 There are 4 different functions in this package. We will see usage of below mentioned functions.
 
 ```python
